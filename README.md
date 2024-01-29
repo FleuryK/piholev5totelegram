@@ -14,7 +14,7 @@ Créer un bot telegram depuis [BotFather](t.me/botfather). (Si vous n'êtes pas 
 
 Ou cloner ce repository :
 ```bash
-git clone https://github.com/FleuryK/piholev5-to-telegram.git
+git clone https://github.com/FleuryK/piholev5totelegram.git
 ```
 
 ###### Installer les packages requis :
